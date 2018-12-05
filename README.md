@@ -1,4 +1,4 @@
-## Project title
+## Homework Assignment #1
 This is the first assingment of the Pirple NodeJS Master Class.
 Server responds with hello world message when it receives a call to /hello
 
